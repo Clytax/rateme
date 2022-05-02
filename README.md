@@ -37,8 +37,8 @@ Screenshot of the Mobile Version:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Github Repo: [Repo](https://github.com/Clytax/rateme)
+- Live Site URL: [Rateme](https://rateme.vercel.app/)
 
 ## My process
 
@@ -47,6 +47,7 @@ Screenshot of the Mobile Version:
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [BEM Naming convention](http://getbem.com/naming/)
+- SCSS/SASS
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
